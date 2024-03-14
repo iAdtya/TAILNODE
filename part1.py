@@ -2,7 +2,7 @@ import os
 import requests
 from supabase import create_client, Client
 
-
+#todo api key are there for testing purpose !!
 def create_supabase_client():
     url = "https://seuqlacxzpyohiajgvei.supabase.co"
     key = "your_key_here"
